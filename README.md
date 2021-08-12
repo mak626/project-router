@@ -15,5 +15,6 @@ This repository contains links to all the projects
 - [Mark9](https://github.com/mak626/book-recommentation-app)
 - [Mark10](https://github.com/mak626/cash-register)
 - [Mark11](https://github.com/mak626/is-your-birthday-lucky)
-- [Mark13](https://mak626.github.io/birthday-pallindrome/)
+- [Mark12](https://github.com/mak626/fun-with-triangles)
+- [Mark13](https://github.com/mak626/birthday-pallindrome)
 - [Mark14](https://github.com/mak626/stock-check)
